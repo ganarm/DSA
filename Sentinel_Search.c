@@ -1,4 +1,4 @@
-// Name : Ganesh R Mali
+// Name : Ganesh Rajendra Mali (Contact : +91-9021817579)
 // Assignment : 1 (set A)
 // Q.2 Sentinel Search
 #include<stdio.h>
