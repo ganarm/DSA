@@ -1,2 +1,2 @@
 # DSA
-All DSA Programs in C Language.
+This Repository has all DSA Programs in C Language of SPPU Syllabus.
